@@ -1,0 +1,14 @@
+__pycache__/
+.venv/
+.env*
+output/
+private/
+work/
+*.docx
+*.pdf
+*.mp4
+*.mp3
+*.wav
+*.log
+*.pem
+*.key
